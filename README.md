@@ -1,8 +1,8 @@
-# Escape from Shadowmoor: A Tale of Liberation
+# Shadowmoor Breakout
 
 ## Overview
 
-Escape from Shadowmoor is an immersive puzzle strategy game set in a remote penal colony, inspired by tales of daring prison escapes. Players must navigate through a series of challenges and obstacles, utilizing their wits and strategic thinking to plan and execute their daring escape. Each decision made will impact the outcome of the game, offering multiple paths to liberation or failure.
+Shadowmoor Breakout is an immersive puzzle strategy game set in a remote penal colony, inspired by tales of daring prison escapes. Players must navigate through a series of challenges and obstacles, utilizing their wits and strategic thinking to plan and execute their daring escape. Each decision made will impact the outcome of the game, offering multiple paths to liberation or failure.
 
 ## Gameplay Features
 
